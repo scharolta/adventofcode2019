@@ -1,0 +1,12 @@
+C:\Users\ssk\source\repos\Dec3\Dec3\bin\Debug\Dec3.exe.config
+C:\Users\ssk\source\repos\Dec3\Dec3\bin\Debug\Dec3.exe
+C:\Users\ssk\source\repos\Dec3\Dec3\bin\Debug\Dec3.pdb
+C:\Users\ssk\source\repos\Dec3\Dec3\obj\Debug\Dec3.csprojAssemblyReference.cache
+C:\Users\ssk\source\repos\Dec3\Dec3\obj\Debug\Dec3.exe
+C:\Users\ssk\source\repos\Dec3\Dec3\obj\Debug\Dec3.pdb
+C:\Users\ssk\source\repos\Dec\Dec3\Dec3\bin\Debug\Dec3.exe.config
+C:\Users\ssk\source\repos\Dec\Dec3\Dec3\bin\Debug\Dec3.exe
+C:\Users\ssk\source\repos\Dec\Dec3\Dec3\bin\Debug\Dec3.pdb
+C:\Users\ssk\source\repos\Dec\Dec3\Dec3\obj\Debug\Dec3.csprojAssemblyReference.cache
+C:\Users\ssk\source\repos\Dec\Dec3\Dec3\obj\Debug\Dec3.exe
+C:\Users\ssk\source\repos\Dec\Dec3\Dec3\obj\Debug\Dec3.pdb

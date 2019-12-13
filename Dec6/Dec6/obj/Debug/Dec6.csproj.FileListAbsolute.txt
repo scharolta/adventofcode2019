@@ -1,0 +1,6 @@
+C:\Users\ssk\source\repos\Xmas\Dec6\Dec6\bin\Debug\Dec6.exe.config
+C:\Users\ssk\source\repos\Xmas\Dec6\Dec6\bin\Debug\Dec6.exe
+C:\Users\ssk\source\repos\Xmas\Dec6\Dec6\bin\Debug\Dec6.pdb
+C:\Users\ssk\source\repos\Xmas\Dec6\Dec6\obj\Debug\Dec6.csprojAssemblyReference.cache
+C:\Users\ssk\source\repos\Xmas\Dec6\Dec6\obj\Debug\Dec6.exe
+C:\Users\ssk\source\repos\Xmas\Dec6\Dec6\obj\Debug\Dec6.pdb

@@ -1,0 +1,11 @@
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\bin\Debug\netcoreapp3.0\Dec8.exe
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\bin\Debug\netcoreapp3.0\Dec8.deps.json
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\bin\Debug\netcoreapp3.0\Dec8.runtimeconfig.json
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\bin\Debug\netcoreapp3.0\Dec8.runtimeconfig.dev.json
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\bin\Debug\netcoreapp3.0\Dec8.dll
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\bin\Debug\netcoreapp3.0\Dec8.pdb
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\obj\Debug\netcoreapp3.0\Dec8.csprojAssemblyReference.cache
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\obj\Debug\netcoreapp3.0\Dec8.AssemblyInfoInputs.cache
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\obj\Debug\netcoreapp3.0\Dec8.AssemblyInfo.cs
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\obj\Debug\netcoreapp3.0\Dec8.dll
+C:\Users\ssk\source\repos\Dec\Dec9\Dec9\obj\Debug\netcoreapp3.0\Dec8.pdb
