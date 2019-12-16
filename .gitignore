@@ -1,0 +1,12 @@
+artifacts/
+output/
+deploy/thirdparty/
+
+/DataExchange
+/Documentation
+/Configuration
+/Tools
+/TestData
+/Tools
+
+.vs/
