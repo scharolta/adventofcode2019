@@ -1,6 +1,0 @@
-C:\Users\ssk\source\repos\Dec4\Dec4\bin\Debug\Dec4.exe.config
-C:\Users\ssk\source\repos\Dec4\Dec4\bin\Debug\Dec4.exe
-C:\Users\ssk\source\repos\Dec4\Dec4\bin\Debug\Dec4.pdb
-C:\Users\ssk\source\repos\Dec4\Dec4\obj\Debug\Dec4.csprojAssemblyReference.cache
-C:\Users\ssk\source\repos\Dec4\Dec4\obj\Debug\Dec4.exe
-C:\Users\ssk\source\repos\Dec4\Dec4\obj\Debug\Dec4.pdb
