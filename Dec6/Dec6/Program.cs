@@ -11,11 +11,29 @@ namespace Dec6
     {
         static void Main(string[] args)
         {
-            var allLines = File.ReadAllLines(@"C:\Users\ssk\source\repos\Dec\Dec6\input6.txt");
-            List<Node> allNodes = ConstructNodes(allLines);
+            var allLines = File.ReadAllLines(@"C:\Users\user\Desktop\adventofcode2019\Dec6\input6.txt")
+                .ToDictionary(l => l.Split(')')[1], l => l.Split(')')[0]); //dict parent:child
 
-            Part1(allNodes);
-            Part2(allNodes);
+            Console.WriteLine("Part1: " + allLines.Keys.Sum(obj => GetParents(obj).Count - 1));
+
+            List<string> you = GetParents("YOU"), san = GetParents("SAN");
+
+            int common = 1;
+
+            for (; you[^ common] == san[^ common]; common++) ;
+
+            Console.WriteLine(you.Count + san.Count - common * 2);
+
+
+            List<string> GetParents(string obj)
+            {
+                var result = new List<string>();
+                for (var curr = obj; curr != "COM"; curr = allLines[curr])
+                    result.Add(curr);
+
+                result.Add("COM");
+                return result;
+            }
         }
 
         private static void Part2(List<Node> allNodes)
